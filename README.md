@@ -15,7 +15,7 @@
 This project was developed with the following technologies:
 
 - Java & Spring Boot 🍃
-- Postgres 🐘
+- PostgreSQL 🐘
 - Postman
 - Docker 🚢
 - Git & Github
